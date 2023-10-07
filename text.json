@@ -1,68 +1,68 @@
 [       
         {"txt" : "1.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/1.jpg",
+        "img" :"./img/preview/1.jpg",
         "alt" : "Lorem ipsum dolor"
-        ,"video":"/img/video/1_low.mp4"
+        ,"video":"./img/video/1_low.mp4"
         },
         
         {"txt" : "2.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/2.jpg",
+        "img" :"./img/preview/2.jpg",
         "alt" : "22222222222"
-        ,"video":"/img/video/2.mp4" 
+        ,"video":"./img/video/2.mp4" 
         },
     
         {"txt" : "3.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/3.jpg",
+        "img" :"./img/preview/3.jpg",
         "alt" : "3333333333"
-        ,"video":"/img/video/3_low.mp4"
+        ,"video":"./img/video/3_low.mp4"
         },
 
         {"txt" : "4.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/4.jpg",
+        "img" :"./img/preview/4.jpg",
         "alt" : "4444444444"
-        ,"video":"/img/video/4_low.mp4"
+        ,"video":"./img/video/4_low.mp4"
         },
         
         {"txt" : "5.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/5.jpg",
+        "img" :"./img/preview/5.jpg",
         "alt" : "5555555555"
-         ,"video":"/img/video/5_low.mp4"
+         ,"video":"./img/video/5_low.mp4"
         },
         
         {"txt" : "6.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/6.jpg",
+        "img" :"./img/preview/6.jpg",
         "alt" : "6666666666"
-        ,"video":"/img/video/6.mp4"
+        ,"video":"./img/video/6.mp4"
         },
         
         {"txt" : "7.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/7.jpg",
+        "img" :"./img/preview/7.jpg",
         "alt" : "77777777777"
-        ,"video":"/img/video/7_low.mp4"
+        ,"video":"./img/video/7_low.mp4"
         },
         
         {"txt" : "8.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/8.jpg",
+        "img" :"./img/preview/8.jpg",
         "alt" : "88888888888"
-        ,"video":"/img/video/8_low.mp4"
+        ,"video":"./img/video/8_low.mp4"
         },
 
         {"txt" : "9.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/9.jpg",
+        "img" :"./img/preview/9.jpg",
         "alt" : "9999999999"
-        ,"video":"/img/video/9_low.mp4"
+        ,"video":"./img/video/9_low.mp4"
         },
 
         {"txt" : "10.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/10.jpg",
+        "img" :"./img/preview/10.jpg",
         "alt" : "1000000000"
-        ,"video":"/img/video/10_low.mp4"
+        ,"video":"./img/video/10_low.mp4"
         },
 
         {"txt" : "11.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem laboriosam impedit porro. Nisi, qui dolorum eveniet reprehenderit veritatis nostrum pariatur nam, facilis deleniti alias earum soluta laudantium eaque cumque quod omnis delectus quae nulla enim et. Laborum at, nulla repellendus fuga quia nihil molestias amet id vel aspernatur obcaecati, debitis animi? Velit molestiae nam aliquid corporis quia deleniti.",
-        "img" :"/img/preview/11.jpg",
+        "img" :"./img/preview/11.jpg",
         "alt" : "1100000000"
-        ,"video":"/img/video/11.mp4"
+        ,"video":"./img/video/11.mp4"
         }
 
 ]
