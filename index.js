@@ -7,8 +7,8 @@ window.onload = async function () {
   
     const response = await fetch("./text.json");
   
-    const txtDescription = await response.json()
-    console.log(txtDescription)
+    const txtDescription = await response.json();
+    console.log(txtDescription);
 
 
 let container = document.querySelector('.container');
