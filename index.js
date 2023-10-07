@@ -109,6 +109,8 @@ for (let i = 0; i < txtDescription.length; i++) {
     let video = document.createElement('video')
     video.className = "video"
     video.src = txtDescription[i].video;
+
+    // <video autoplay muted playsinline> <source src="your-video.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
     video.autoplay = "true";
     video.muted = "true"
     video.loop = "true";
