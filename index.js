@@ -115,6 +115,7 @@ for (let i = 0; i < txtDescription.length; i++) {
     video.muted = "true";
     video.loop = "true";
     video.controls="true";
+    video.playsInline="true";
 
 
     // function sleep(ms) {
